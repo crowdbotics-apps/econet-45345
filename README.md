@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [privacy-policy]()
 - [react-native-splash](modules/splash)
 - [react-native-typeform-webhook](modules/typeform-webhook)
+- [django-wordpress](backend/modules)
 
 # Getting started: Frontend
 
